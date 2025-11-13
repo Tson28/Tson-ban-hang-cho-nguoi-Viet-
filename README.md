@@ -85,4 +85,5 @@ Phần mềm đương nhiên vẫn là miễn phí nhé mọi người. Ngoài r
 # Mua cho mình cốc cà phê
 Mình phát triển ứng dụng miễn phí cho tất cả mọi người sử dụng, nếu mọi người thấy ứng dụng giúp ích và có giá trị thì đừng quên mua cho mình cốc cà phê nhé. Cảm ơn các bạn.
 
-TK Vietcombank: 0611001909717, Bùi Thế Hiển, chi nhánh Ba Đình.
+
+TK Techcombank 2806056863 Nguyen thai son
